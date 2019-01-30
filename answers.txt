@@ -1,0 +1,125 @@
+    1  git
+    2  git config --global user.email "YOUR_EMAIL"
+    3  git config --global user.email "ia903@nyu.edu"
+    4  git config --global user.name "ibrahim65432"
+    5  git 
+    6  git status
+    7  git login
+    8  git init
+    9  git clone /path/to/repository
+   10  git clone ibrahim65432@host:/path/to/repository
+   11  ls
+   12  cd ..
+   13  ls
+   14  cd workspace
+   15  ls
+   16  git init
+   17  git add *.c
+   18  pwd
+   19  cd
+   20  ls
+   21  cd workspace
+   22  git clone https://github.com/nyu-cs201-s19/ibrahim65432
+   23  git clone https://github.com/nyu-cs201-s19/rec1
+   24  ls
+   25  man cp
+   26  cd
+   27  mkdir
+   28  cd rect1
+   29  ls
+   30  cd workspace
+   31  ls
+   32  cd rect1
+   33  cd rect1/
+   34  cd
+   35  cd workspace
+   36  ls
+   37  cd rect1
+   38  cd rec1
+   39  mkdir
+   40  mkdir backup
+   41  ls
+   42  cd backup
+   43  cp foo.txt
+   44  rm -r backup
+   45  ls
+   46  cd
+   47  cd workspace\rec1
+   48  cd workspace
+   49  cd rec1
+   50  ls
+   51  rm -r backup
+   52  ls
+   53  cd unix
+   54  cd
+   55  history
+   56  cd workspace
+   57  cd rec1
+   58  ls
+   59  cd unix
+   60  ls
+   61  mkdir backup
+   62  ls
+   63  cp foo.txt backup
+   64  ls
+   65  cd backup
+   66  ls
+   67  mv foo.txt bar.txt
+   68  ls
+   69  cd
+   70  mkdir multiple\directories
+   71  ls
+   72  rm -r multipledirectories
+   73  ls
+   74  mkdir multiple
+   75  ls
+   76  cd multiple
+   77  cd
+   78  cd multiple
+   79  mkdir directories
+   80  cd directories
+   81  touch text.txt
+   82  ls
+   83  > "Hello"
+   84  ls
+   85  rm Hello
+   86  ls
+   87  cd text.txt
+   88  cat text.txt Hello
+   89  cat text.text > Hello
+   90  cat text.text > "Hello"
+   91  cat "Hello"
+   92  ls
+   93  rm Hello
+   94  cat >text.txt
+   95  ls 
+   96  touch text.txt
+   97  ls
+   98  more text.txt
+   99  rm text.txt
+  100  ls
+  101  touch text.txt
+  102  ls
+  103  cat text.txt
+  104  ls
+  105  echo "Hello !"
+  106  ls
+  107  more text.txt
+  108  ls
+  109  echo *
+  110  cat > text.txt 
+  111  more text.txt
+  112  cat text.txt
+  113  rm -r multiple
+  114  cd
+  115  rm -r multiple
+  116  ls
+  117  wget https://raw.githubusercontent.com/torvalds/linux/master/kernel/reboot.c
+  118  wc
+  119  ls
+  120  wc reboot.c
+  121  cd workspace
+  122  cd
+  123  touch answers.txt
+  124  ls
+  125  history > answers.txt
