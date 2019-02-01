@@ -123,3 +123,117 @@
   123  touch answers.txt
   124  ls
   125  history > answers.txt
+  126  ls
+  127  more answers.txt
+  128  git add -A
+  129  git status
+  130  .git status
+  131  git
+  132  git init
+  133  ls
+  134  more answers.txt
+  135  ls
+  136  git add -A
+  137  git status
+  138  git commit -m "answered on questions in part 3"
+  139  git push origin master
+  140  git push master
+  141  branch
+  142  git branch
+  143  ll
+  144  ls
+  145  cd workspace/
+  146  ls
+  147  git clone https://github.com/nyu-cs201-s19/ibrahim65432-rec1.git
+  148  ls
+  149  git config --global user.email "ia903@nyu.edu"
+  150  git config --global user.name "ibrahim65432"
+  151  cd ibrahim65432-rec1
+  152  ls
+  153  cd unix
+  154  ls
+  155  mkdir backup
+  156  ls
+  157  cp foo.text backup
+  158  cp foo.txt backup
+  159  ls
+  160  cd backup
+  161  ls
+  162  mv foo.txt bar.txt
+  163  ls
+  164  bar.txt> "Hello !"
+  165  bar.txt > "Hello !"
+  166  cat bar.txt
+  167  cd
+  168  mkdir multiple
+  169  ls multiple
+  170  mkdir directories
+  171  touch text.txt
+  172  cat touch.txt 
+  173  cat text.txt
+  174  "Hello !" > text.txt
+  175  ls
+  176  rm -r directories
+  177  cd multiple
+  178  mkdir directories
+  179  cd directories
+  180  touch text.txt
+  181  ls
+  182  cat text.txt
+  183  cat > text.txt
+  184  more text.txt
+  185  cat > text.txt
+  186  more text.txt
+  187  cd
+  188  rm -r multiple
+  189  ls
+  190  more answers.txt
+  191  git add -A
+  192  git status
+  193  git commit -m "answered on questions in part 3"
+  194  git push origin master
+  195  git status
+  196  rm ibrahim65432-rec1
+  197  git status
+  198  git initit
+  199  git init
+  200  git push origin master
+  201  git status
+  202  git clone https://github.com/nyu-cs201-s19/ibrahim65432-rec1.git
+  203  ls
+  204  cd ibrahim65432-rec1
+  205  ls
+  206  cd ..
+  207  ls
+  208  cd ibrahim65432-rec1
+  209  ls
+  210  cd unix
+  211  ls
+  212  mkdir backup
+  213  ls
+  214  cp foo.txt backup
+  215  ls
+  216  cd backup
+  217  ls
+  218  mv foo.txt bar.txt
+  219  ls
+  220  cd
+  221  ls
+  222  mkdir multiple
+  223  cd multiple
+  224  mkdir directories
+  225  cd directories
+  226  touch test.txt
+  227  cat > text.txt
+  228  more text.txt
+  229  cd
+  230  ls
+  231  rm multiple
+  232  rm -r multiple
+  233  wget https://raw.githubusercontent.com/torvalds/linux/master/kernel/reboot.c
+  234  ls
+  235  wc reboot.c.1
+  236  mv answers.txt oldAnswers.txt
+  237  ls
+  238  touch answers.txt
+  239  history > answers.txt
